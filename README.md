@@ -23,8 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0560-subarray-sum-equals-k](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
