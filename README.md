@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0977-squares-of-a-sorted-array](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
