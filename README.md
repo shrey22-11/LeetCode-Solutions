@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 ## Prefix Sum
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0091-decode-ways](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Graph Theory
 |  |
 | ------- |
