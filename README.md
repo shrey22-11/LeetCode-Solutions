@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0463-island-perimeter) |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0091-decode-ways](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sorting
 |  |
@@ -111,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
 | ------- |
