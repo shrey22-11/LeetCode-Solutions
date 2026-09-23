@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0198-house-robber](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0091-decode-ways](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0091-decode-ways) |
+| [0212-word-search-ii](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -187,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
