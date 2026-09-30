@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0091-decode-ways](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0212-word-search-ii](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0091-decode-ways](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0279-perfect-squares) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
