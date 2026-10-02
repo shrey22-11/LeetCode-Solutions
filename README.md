@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0055-jump-game](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0198-house-robber](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0279-perfect-squares) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/shrey22-11/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
